@@ -13,36 +13,30 @@ Furthermore, GaR can be applied to a variety of conflict-prone decision-making t
 ### Intersection Demos
 
 (i) Scenario a
-
-<div style="display:flex; justify-content:center; gap:20px;">
-  <img src="assets/intersection/left1.gif" style="width:30%;">
-  <img src="assets/intersection/left2.gif" style="width:30%;">
-  <img src="assets/intersection/left3.gif" style="width:30%;">
+<div style="display:flex; justify-content:center; gap:5px;">
+  <img src="assets/intersection/left1.gif" width="32%">
+  <img src="assets/intersection/left2.gif" width="32%">
+  <img src="assets/intersection/left3.gif" width="32%">
 </div>
 
 (ii) Scenario b
-
-<div style="display:flex; justify-content:center; gap:20px;">
-  <img src="assets/intersection/straight1.gif" style="width:40%;">
-  <img src="assets/intersection/straight2.gif" style="width:40%;">
+<div style="display:flex; justify-content:center; gap:5px;">
+  <img src="assets/intersection/straight1.gif" width="48%">
+  <img src="assets/intersection/straight2.gif" width="48%">
 </div>
 
 (iii) Scenario c
-
-<div style="display:flex; justify-content:center; gap:20px;">
-  <img src="assets/intersection/right1.gif" style="width:40%;">
-  <img src="assets/intersection/right2.gif" style="width:40%;">
+<div style="display:flex; justify-content:center; gap:5px;">
+  <img src="assets/intersection/right1.gif" width="48%">
+  <img src="assets/intersection/right2.gif" width="48%">
 </div>
 
 ### Evasion Demos
-
-<div style="display:flex; justify-content:center; gap:20px;">
-  <img src="assets/evasion/demo3.gif" style="width:25%;">
-  <img src="assets/evasion/demo4.gif" style="width:25%;">
-  <img src="assets/evasion/demo9.gif" style="width:25%;">
+<div style="display:flex; justify-content:center; gap:5px;">
+  <img src="assets/evasion/demo3.gif" width="30%">
+  <img src="assets/evasion/demo4.gif" width="30%">
+  <img src="assets/evasion/demo9.gif" width="30%">
 </div>
-
-
 
 
 ## Table of Contents
