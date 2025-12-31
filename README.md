@@ -15,32 +15,33 @@ Furthermore, GaR can be applied to a variety of conflict-prone decision-making t
 (i) Scenario a
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <video src="assets/intersection/left1.mp4" controls style="width:30%;"></video>
-  <video src="assets/intersection/left2.mp4" controls style="width:30%;"></video>
-  <video src="assets/intersection/left3.mp4" controls style="width:30%;"></video>
+  <img src="assets/intersection/left1.gif" style="width:30%;">
+  <img src="assets/intersection/left2.gif" style="width:30%;">
+  <img src="assets/intersection/left3.gif" style="width:30%;">
 </div>
 
 (ii) Scenario b
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <video src="assets/intersection/straight1.mp4" controls style="width:40%;"></video>
-  <video src="assets/intersection/straight2.mp4" controls style="width:40%;"></video>
+  <img src="assets/intersection/straight1.gif" style="width:40%;">
+  <img src="assets/intersection/straight2.gif" style="width:40%;">
 </div>
 
 (iii) Scenario c
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <video src="assets/intersection/right1.mp4" controls style="width:40%;"></video>
-  <video src="assets/intersection/right2.mp4" controls style="width:40%;"></video>
+  <img src="assets/intersection/right1.gif" style="width:40%;">
+  <img src="assets/intersection/right2.gif" style="width:40%;">
 </div>
 
 ### Evasion Demos
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <video src="assets/evasion/demo3.mp4" controls style="width:25%;"></video>
-  <video src="assets/evasion/demo4.mp4" controls style="width:25%;"></video>
-  <video src="assets/evasion/demo9.mp4" controls style="width:25%;"></video>
+  <img src="assets/evasion/demo3.gif" style="width:25%;">
+  <img src="assets/evasion/demo4.gif" style="width:25%;">
+  <img src="assets/evasion/demo9.gif" style="width:25%;">
 </div>
+
 
 
 
